@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @lianghaofa
+- 👋 Hi, I’m @lianghaofa,a postgraduate.
 - 👀 I’m interested in coding,history and exercise.
 - 🌱 I’m currently learning optimizing JVM and advanced java.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for a job in USA,CA and Australian ...
 - 📫 1016907063@qq.com
 
 <!---
