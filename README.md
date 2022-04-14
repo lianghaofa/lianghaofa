@@ -1,5 +1,5 @@
-- Hi, I’m @lianghaofa,a postgraduate.
-- I’m good at coding and building java,php project.
+- Hi, I’m @lianghaofa,a postgraduate and Full stack engineer.
+- I’m good at coding and building software project.
 - I’m interested in coding,history and exercise.
 - I’m currently learning how to optimizing JVM and advanced java.
 - I’m looking for ...
